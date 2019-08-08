@@ -1,6 +1,6 @@
 # Codelines
 
-[Codelines](https://codelines.dev) let connect your code with richt text. User marks to create bindings between the code and the text.
+[Codelines](https://codelines.dev) lets connect your code with rich text. Use marks to create bindings between the code and the text.
 <br/>
 [Join Our Community](https://join.slack.com/t/codelinescommunity/shared_invite/enQtNzE3NDE1Njc5NDEzLWIxNzA3YWIyNjU0ZmNmOGFhNGZkZDJjNTgyNjc0NTI2YjgyMWY3NzEyZGFmNGIzY2E1ZWE2MmM4NmQ5ZDQ3MWU)
 
