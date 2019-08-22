@@ -15,7 +15,7 @@ Code Books are bundled full projects that can be executed and debugged.
 Use marks to bind code with text.
 Marks automatically update when code and text is changed.
 
-![Marks](images/codelines-marks.opng)
+![Marks](images/codelines-marks.png)
 
 
 ## Interactive walkthroughs
