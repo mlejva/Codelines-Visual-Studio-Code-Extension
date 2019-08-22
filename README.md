@@ -1,26 +1,25 @@
 # Codelines
 
-[Codelines](https://codelines.dev) let connect your code with richt text. User marks to create bindings between the code and the text.
-<br/>
-[Join Our Community](https://join.slack.com/t/codelinescommunity/shared_invite/enQtNzE3NDE1Njc5NDEzLWIxNzA3YWIyNjU0ZmNmOGFhNGZkZDJjNTgyNjc0NTI2YjgyMWY3NzEyZGFmNGIzY2E1ZWE2MmM4NmQ5ZDQ3MWU)
+[Codelines](https://codelines.dev) lets you share programming knowledge as interactive walkthroughs. Stop reading annoying tutorials on Internet.
 
-## Annotate Code With Marks
+## Create & read inside your IDE
 
-Use marks to create bindings between the code and the text.
+Create Code Books inside your code editor to create interactive code walkthroughs.
+Code Books are bundled full projects that can be executed and debugged.
 
-![Create Marks](videos/annotate.gif)
-
-
-## Edit Marks
-
-Codelines keep references between the marks you created.
-Every time you update your code, the marks get updated.
-
-![Edit Marks](videos/change.gif)
+![Code Book](images/codelines-book.png)
 
 
-## Group Related Parts
+## Connect code to text
 
-Create multiple documents in the editor, one for each logical part.
+Use marks to bind code with text.
+Marks automatically update when code and text is changed.
 
-![Edit Marks](videos/documents.gif)
+![Marks](images/codelines-marks.opng)
+
+
+## Interactive walkthroughs
+
+Add terminal commands into Code Books and interact with your workspace.
+
+![Terminal Commands](images/codelines-command.png)
